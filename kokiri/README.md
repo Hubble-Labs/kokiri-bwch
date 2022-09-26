@@ -1,19 +1,19 @@
-- Project Name
-	- Brief Description
-	- Team members & roles
-	- Hackathon track
-	- Project details
-		- Demonstartion video _(*Phase 2 & 3, Required)_
-		- Requirements _(*Phase 2 & 3, Required)_
-		- Instructions to build & test _(*Phase 2 & 3, Required)
-
 # Kokiri
 
 ### Description
 
 ### Team Members & Roles
 
+- Salvador Salcedo, Founder, Lead Developer
+
+- Connor Moore, Oracle and Smart Contract Developer
+
+- Evan Robert, Enviromental Science and ML Engineer
+
+
 ### Hackathon Track
+
+#### Re/Defi
 
 ### Project Details
 
