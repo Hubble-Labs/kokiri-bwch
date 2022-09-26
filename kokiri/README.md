@@ -15,10 +15,10 @@
 
 ### Hackathon Track
 
-### Prokect Details
+### Project Details
 
-Demo Video
+- Demo Video _(*Phase 2 & 3, Required)_
 
-Requirements
+- Requirements _(*Phase 2 & 3, Required)_
 
-Instructions to build and test
+- Instructions to build and test _(*Phase 2 & 3, Required)_
